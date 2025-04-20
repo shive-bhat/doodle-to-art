@@ -1,14 +1,14 @@
 # 🧠🎨 **WanderInk Studio — Sketch to Masterpiece Powered by AI**
 
-Welcome to **WanderInk Studio**, a cutting-edge AI-powered web application that transforms your rough sketches into stunning digital artworks in just a few clicks!
+Welcome to **Drawn2Life**, a cutting-edge AI-powered web application that transforms your rough sketches into stunning digital artworks in just a few clicks!
 
-Built for the modern creator, **WanderInk Studio** fuses **Generative AI** with seamless **DirectML acceleration** to deliver high-quality, style-rich artwork from simple line drawings — right from your browser.
+Built for the modern creator, **Drawn2Life** fuses **Generative AI** with seamless **DirectML acceleration** to deliver high-quality, style-rich artwork from simple line drawings — right from your browser.
 
 ---
 
 ## 🚀 **About the Project**
 
-In a world where art and AI converge, **WanderInk Studio** allows you to:
+In a world where art and AI converge, **Drawn2Life** allows you to:
 
 ✅ Upload hand-drawn sketches  
 ✅ Apply artistic control via prompts  
@@ -80,3 +80,12 @@ This project was designed with performance, creativity, and user experience in m
    ```bash
    git clone https://github.com/shive-bhat/doodle-to-art.git
    cd doodle-to-art
+
+2. Install the required dependencies:
+    pip install -r requirements.txt
+
+3. Run the application:
+    streamlit run app.py
+
+4. Navigate to http://localhost:8501 in your browser to start creating!
+
