@@ -60,7 +60,7 @@ This project was designed with performance, creativity, and user experience in m
 - **GPU**: AMD GPU with DirectML support.
 - **RAM**: Minimum 8 GB.
 - **Python**: 3.10+
-- **Recommended browsers**: Chrome, Edge, Brave.
+- **Recommended browsers**: Chrome, Edge, Firefox.
 
 ---
 
