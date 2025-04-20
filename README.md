@@ -78,5 +78,5 @@ This project was designed with performance, creativity, and user experience in m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/doodle-to-art/wanderink-studio.git
-   cd wanderink-studio
+   git clone https://github.com/shive-bhat/doodle-to-art.git
+   cd doodle-to-art
